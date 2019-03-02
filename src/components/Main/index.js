@@ -1,4 +1,5 @@
 import React from 'react';
+import Img from '../../img/02.jpg';
 
 const Main = () => (
 //     <section>
@@ -24,7 +25,7 @@ const Main = () => (
 
           <div className="col-lg-4">
             <div className="p-5">
-              <img className="img-fluid" src={"../../"+require("img/02.jpg")} alt=""/>
+              <img className="img-fluid" src={require("../../img/02.jpg")} alt=""/>
             </div>
           
               <h4 className="text-center">Titulo</h4>
@@ -33,7 +34,7 @@ const Main = () => (
           </div>
           <div className="col-lg-4">
             <div className="p-5">
-              <img className="img-fluid" src={"../../"+require("img/02.jpg")} alt=""/>
+              <img className="img-fluid" src={Img} alt=""/>
             </div>
            
               <h4 className="text-center">Titulo</h4>
@@ -42,7 +43,7 @@ const Main = () => (
           </div>
           <div className="col-lg-4">
             <div className="p-5">
-              <img className="img-fluid" src={"../../"+require("img/02.jpg")} alt=""/>
+              <img className="img-fluid" src={Img} alt=""/>
             </div>
 
               <h4 className="text-center">Titulo</h4>
@@ -52,7 +53,7 @@ const Main = () => (
 
            <div className="col-lg-4">
             <div className="p-5">
-              <img className="img-fluid" src={"../../"+require("img/02.jpg")} alt=""/>
+              <img className="img-fluid" src={Img} alt=""/>
             </div>
           
               <h4 className="text-center">Titulo</h4>
@@ -61,7 +62,7 @@ const Main = () => (
           </div>
           <div className="col-lg-4">
             <div className="p-5">
-              <img className="img-fluid" src={"../../"+require("img/02.jpg")} alt=""/>
+              <img className="img-fluid" src={Img} alt=""/>
             </div>
            
               <h4 className="text-center">Titulo</h4>
@@ -70,7 +71,7 @@ const Main = () => (
           </div>
           <div className="col-lg-4">
             <div className="p-5">
-              <img className="img-fluid" src={"../../"+require("img/02.jpg")} alt=""/>
+              <img className="img-fluid" src={Img} alt=""/>
             </div>
 
               <h4 className="text-center">Titulo</h4>
@@ -80,7 +81,7 @@ const Main = () => (
 
            <div className="col-lg-4">
             <div className="p-5">
-              <img className="img-fluid" src={"../../"+require("img/02.jpg")} alt=""/>
+              <img className="img-fluid" src={Img} alt=""/>
             </div>
           
               <h4 className="text-center">Titulo</h4>
@@ -89,7 +90,7 @@ const Main = () => (
           </div>
           <div className="col-lg-4">
             <div className="p-5">
-              <img className="img-fluid" src={"../../"+require("img/02.jpg")} alt=""/>
+              <img className="img-fluid" src={Img} alt=""/>
             </div>
            
               <h4 className="text-center">Titulo</h4>
@@ -98,7 +99,7 @@ const Main = () => (
           </div>
           <div className="col-lg-4">
             <div className="p-5">
-              <img className="img-fluid" src={"../../"+require("img/02.jpg")} alt=""/>
+              <img className="img-fluid" src={Img} alt=""/>
             </div>
 
               <h4 className="text-center">Titulo</h4>
